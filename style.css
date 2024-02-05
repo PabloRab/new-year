@@ -1,0 +1,63 @@
+/* .box{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+}
+.box:hover{
+    animation-name: changeColor;
+    animation-duration: 5s;
+}
+@keyframes changeColor{
+    0%{
+        background-color: blueviolet;
+    }
+    30%{
+        background-color: teal ;
+    }
+    70%{
+        background-color: lawngreen;
+    }
+    100%{
+        background-color: orange;
+    }
+} */
+
+/* .content{
+    padding: 50px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50%;
+    position: relative;
+    left: 0;
+    animation-name: changeColor;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.content:hover .box{
+    animation-play-state: paused;
+}
+@keyframes changeColor{
+    0%{
+        left: 0;
+    }
+    50%{
+        border-radius: 0;
+    }
+    100%{
+        left: 500px;
+    }
+} */
+/* img{
+    animation-name: spin;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+} */
